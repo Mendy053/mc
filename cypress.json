@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://www.zer4u.co.il",
+    "watchForFileChanges": true,
+    "defaultCommandTimeout": 4000,
+    "downloadsFolder": "cypress/downloads",
+    "projectId": "3gam1w"
+
+}
